@@ -1,0 +1,18 @@
+{
+  "name": "com.demo.harbinger",
+  "displayName": "Harbinger",
+  "version": "1.0.0",
+  "unity": "2021.3.8f1",
+  "description": "Harbinger Hydra.",
+  "type": "library",
+  "upm": {
+    "changelog": "Init Package."
+  },
+  "relatedPackages": {
+  },
+
+  "repository": {
+    "url": "https://github.com/nc1988/UnityPackageDemo.git",
+    "type": "git",
+  }
+}
